@@ -1,0 +1,13 @@
+1) Tid i python.
+2) String formatting.
+3) multiindex i pandas.
+4) Forking/bransching i git.
+5) Convnet för siffror
+6) Convnet för hud/katt
+7) RNN för sentimentanalys
+8) Learning from kaggle winners (coursera)
+9) accessing web-data, python (coursera)
+10) Gör klart SQL-specialiseringen (coursera)
+11) Docker kurs, tex udemy.
+12) AWS-kurs.
+13) Gör klart git-kursen på udemy.
